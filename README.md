@@ -14,8 +14,6 @@ Bu proje, WinForms ve ML.NET kullanarak resim yükleyerek meyve tespiti yapmayı
 
 📊 Tahmin Skoru: Modelin tahmin güvenilirlik oranı görüntülenir.
 
-🎨 Arayüz Renk Değişimi: Algılanan meyve türüne göre arayüz rengi değişir.
-
 📂 Kayıt Gerektirmez: Resim geçici olarak bellekte işlenmektedir, diske kaydedilmez.
 
 📂 Kullanılan Teknolojiler
